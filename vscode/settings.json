@@ -28,7 +28,6 @@
         "terminal.ansiYellow":"#FFCC66"
     },
     "workbench.activityBar.visible": false,
-    "workbench.statusBar.visible": false,
     "docker.showStartPage": false,
     "workbench.tree.indent": 20,
     "workbench.colorTheme": "Predawn Twilight",
@@ -45,4 +44,7 @@
         "editor.formatOnType": true
     },
     "workbench.startupEditor": "none",
+    "terminal.integrated.tabs.enabled": false,
+    "extensions.ignoreRecommendations": true,
+    "workbench.statusBar.visible": false,
 }
